@@ -134,6 +134,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 margin: 1rem 0 0 0;
+font-family: 'Nunito';
 }
 
 .ul-locations{
@@ -142,4 +143,9 @@ margin: 1rem 0 0 0;
     align-items: center;
     flex-direction: column;
     margin: 0;
+    font-family: 'Nunito';
+}
+
+.bold-it{
+    font-weight: 1000;
 }
