@@ -2,6 +2,6 @@
 
 <p align="center">
   <img 
-    src='https://github.com/christian-fortin/Tattoo-Ideas/blob/main/chess%20abstract.png'
+    src='https://github.com/christian-fortin/Tattoo-Ideas/blob/main/images/chess%20abstract.png?raw=true'
   >
 </p>
