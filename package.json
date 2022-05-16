@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "s3-redeploy": "^1.1.1"
+  }
+}
